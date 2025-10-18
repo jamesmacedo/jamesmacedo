@@ -1,5 +1,6 @@
 ```bash
  $ sh about_me.sh
+
   hey there 👋
   
   i’m a software engineer who loves building things from scratch —  
